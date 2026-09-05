@@ -192,9 +192,9 @@ These are project-defined analytical categories, not official UIDAI classificati
 
 ## How to Run
 
-### Google Colab
+### Google Colab / Jupyter Notebook
 
-1. Open Google Colab.
+1. Open Google Colab / Jupyter Notebook
 2. Create a new notebook.
 3. Upload `UIDAI.csv`.
 4. Run the data loading cell.
